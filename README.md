@@ -3,12 +3,16 @@
 </div>
 
 <div align="center">
-    - 👋 Hi, I’m @Harsh-Sharma123
-    - 👀 I’m interested in the world of Computers and Technologies
-    - 🌱 I’m currently learning App Development
-    - 💞️ I’m looking to collaborate on web and app dev
-    - 📫 How to reach me via mail | Instagram
+    - 👋 Hi, I’m @Harsh-Sharma123 <br>
+    - 👀 I’m interested in the world of Computers and Technologies <br>
+    - 🌱 I’m currently learning App Development <br>
+    - 💞️ I’m looking to collaborate on web and app dev <br>
+    - 📫 How to reach me via mail | Instagram <br>
 </div>
+
+<br>
+<br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsh-sharma-a67254195/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
