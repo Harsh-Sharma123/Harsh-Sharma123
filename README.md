@@ -13,6 +13,13 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<br><br>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsh-sharma-a67254195/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
