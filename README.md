@@ -20,12 +20,6 @@
 <br><br>
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/harsh-sharma-a67254195/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-</div>
 
 <!---
 Harsh-Sharma123/Harsh-Sharma123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
