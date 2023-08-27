@@ -6,6 +6,7 @@
     - 👋 Hi, I’m @Harsh-Sharma123 <br>
     - 👀 I’m interested in the world of Computers and Technologies <br>
     - 🌱 I’m currently learning App Development <br>
+
     - 💞️ I’m looking to collaborate on web and app dev. <br>
     - 📫 How to reach me via mail | Instagram <br>
 </div>
