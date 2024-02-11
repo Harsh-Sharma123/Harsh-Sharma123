@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: black">
     - 👋 Hey, I’m @Harsh-Sharma123 <br>
     - 👀 I’m interested in the world of Computers and Technologies <br>
     - 🌱 I’m currently learning App Development <br>
